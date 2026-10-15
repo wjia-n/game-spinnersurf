@@ -83,6 +83,6 @@ const arcadeConfig = ArcadeConfig(
   fallDown: false,
   tip1Id: 'spinnersurfsmoothie',
   tip2Id: 'spinnersurfsandwich',
-  tip1Label: '💛 Buy me a smoothie',
-  tip2Label: '💛 Buy me a sandwich',
+  tip1Label: '💛 Spinner Surf — buy me a smoothie',
+  tip2Label: '💛 Spinner Surf — buy me a sandwich',
 );
